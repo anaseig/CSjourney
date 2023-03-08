@@ -1,16 +1,15 @@
 ![Open Source Society University (OSSU)](https://i.imgur.com/kYYCXtC.png)
 
-<h3 align="center">Open Source Society University</h3>
 <p align="center">
   My journey of self teaching myself Computer Science!
 </p>
 <p align="center">
   <a href="https://github.com/ossu/computer-science">
-	<img alt="OSSU Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
+	<img alt="OSSU Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg?style=for-the-badge">
   </a>
 
   <a href="#">
-	<img alt="last-updated" src="https://img.shields.io/factorio-mod-portal/last-updated/name?color=teal">
+	<img alt="last-updated" src="https://img.shields.io/github/last-commit/anaseig/csjourney?color=teal&label=last%20updated&style=for-the-badge">
   </a>
 </p>
 
