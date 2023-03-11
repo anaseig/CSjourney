@@ -1,4 +1,4 @@
-![ossu-banner](https://user-images.githubusercontent.com/70536934/224480785-cfdd280d-fe02-4ac1-9a77-924e8fd72d74.png)
+![ossu-banner](https://user-images.githubusercontent.com/70536934/224481059-b54ecec5-9b8f-4fd5-9d1b-88fb898e0512.png)
 
 
 <p align="center">
