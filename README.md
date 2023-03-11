@@ -21,7 +21,7 @@
 
 Course | Effort | Status
 :-- | :--: | :--:
-[Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | 48m | 22%
+[Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | 1h | 22%
 
 ## Core CS
 
