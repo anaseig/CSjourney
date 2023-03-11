@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  My journey of self teaching myself Computer Science!
+  my journey of self teaching myself computer science.
 </p>
 <p align="center">
   <a href="https://github.com/ossu/computer-science">
