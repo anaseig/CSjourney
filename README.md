@@ -1,9 +1,5 @@
 ![ossu-banner](https://user-images.githubusercontent.com/70536934/224481059-b54ecec5-9b8f-4fd5-9d1b-88fb898e0512.png)
 
-
-<p align="center">
-  my journey of self teaching myself computer science.
-</p>
 <p align="center">
   <a href="https://github.com/ossu/computer-science">
 	<img alt="OSSU Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg?style=normal">
@@ -14,8 +10,11 @@
   </a>
 </p>
 
-# 1st Year ➡️ Q1 (March - May 2023)
+<p align="center">
+  my journey of self teaching myself computer science.
+</p>
 
+# 1st Year Q1 (March - May 2023) ⬅️
 <br>
 
 ### Introduction to Computer Science
