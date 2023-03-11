@@ -1,15 +1,16 @@
-![Open Source Society University (OSSU)](https://i.imgur.com/kYYCXtC.png)
+![ossu-banner](https://user-images.githubusercontent.com/70536934/224480785-cfdd280d-fe02-4ac1-9a77-924e8fd72d74.png)
+
 
 <p align="center">
   My journey of self teaching myself Computer Science!
 </p>
 <p align="center">
   <a href="https://github.com/ossu/computer-science">
-	<img alt="OSSU Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg?style=for-the-badge">
+	<img alt="OSSU Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg?style=normal">
   </a>
 
   <a href="#">
-	<img alt="last-updated" src="https://img.shields.io/github/last-commit/anaseig/csjourney?color=teal&label=last%20updated&style=for-the-badge">
+	<img alt="last-updated" src="https://img.shields.io/github/last-commit/anaseig/csjourney?color=teal&label=last%20updated&style=normal">
   </a>
 </p>
 
